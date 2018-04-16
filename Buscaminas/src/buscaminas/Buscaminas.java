@@ -7,9 +7,6 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 public class Buscaminas extends JFrame implements ActionListener, MouseListener {
     
-    /*HOLA ANDREA*/
-    //Hola Luis
-    
     int nomines = 80;
     int perm[][];
     String tmp;
